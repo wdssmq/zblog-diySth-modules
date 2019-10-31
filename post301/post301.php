@@ -9,7 +9,7 @@ Add_Filter_Plugin('Filter_Plugin_ViewPost_Template', 'diy_post301_view');
 function diy_post301_addMeta()
 {
   global $article;
-  $html = <<<xnxf
+  $html = <<< xnxf
 <label for="edtTag" class="editinputname">跳转到指定链接：</label>
 <div class="editmod2">
 <input type="text" name="meta_diyLink" value="{$article->Metas->diyLink}" style="width: 100%;" autocomplete="off">
