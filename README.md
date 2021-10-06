@@ -1,6 +1,6 @@
 # zblog-diySth-modules
 
-用于z-blogPHP diySth插件的功能模块
+用于 z-blogPHP diySth 插件的功能模块
 
 ----
 [ToC]
@@ -13,7 +13,7 @@
 
 > DIY Something - Z-Blog 应用中心
 > https://app.zblogcn.com/?id=1961
-> 本插件初衷为不修改主题或其他插件的前提下实现对当前站点的部分自定义需求，比如插入CSS，js或者挂载接口；
+> 本插件初衷为不修改主题或其他插件的前提下实现对当前站点的部分自定义需求，比如插入 CSS，js 或者挂载接口；
 
 可以将不同功能按约定规范各自书写，然后由插件拼接整合后一次性引入调用。
 
@@ -33,16 +33,16 @@
 
 ###  付款及联系
 
-| 支付宝 | 微信 | QQ群 |
+| 支付宝 | 微信 | QQ 群 |
 | ---- | ---- | ---- |
 |   ![支付宝收款][Alipay]   |   ![微信收款][WeChat]   |   ![QQ群][qGroup]   |
 
 
 
-[Alipay]: https://github.com/wdssmq/zblog-diySth-modules/raw/master/doc/Alipay.jpg  "支付宝收款"
+[Alipay]: https://cdn.jsdelivr.net/gh/wdssmq/zblog-diySth-modules@master/doc/Alipay.jpg  "支付宝收款"
 
-[WeChat]: https://github.com/wdssmq/zblog-diySth-modules/raw/master/doc/WeChat.png  "微信收款"
+[WeChat]: https://cdn.jsdelivr.net/gh/wdssmq/zblog-diySth-modules@master/doc/WeChat.png  "微信收款"
 
-[qGroup]: https://github.com/wdssmq/zblog-diySth-modules/raw/master/doc/qGroup.jpg  "QQ群"
+[qGroup]: https://cdn.jsdelivr.net/gh/wdssmq/zblog-diySth-modules@master/doc/qGroup.jpg  "QQ群"
 
 [doc]: https://github.com/wdssmq/zblog-diySth-modules/blob/master/doc/doc.md "文档"
