@@ -7,5 +7,6 @@
 !autoLoad
 !post301
 !telForCmt
+!ViewBookMarks
 # others
 *.close
