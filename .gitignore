@@ -1,8 +1,8 @@
 /*
 !.gitignore
+!README.md
+!doc
 !autoLoad
 !post301
-!doc
-!README.md
 !telForCmt
 *.close
