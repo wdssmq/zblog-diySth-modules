@@ -1,6 +1,7 @@
 <?php
 // ----
 // ViewBookMarks_Filter
+// 用于查看浏览器导出的书签文件
 Add_Filter_Plugin('Filter_Plugin_Index_Begin', 'diySth_ViewBookMarks_Begin');
 
 // ----
@@ -17,7 +18,7 @@ function diySth_ViewBookMarks_Begin()
   $uHost = diySth_Path("usr/ViewBookMarks/", "host");
   $fScript = $uHost . "vbm_var/script.js";
 
-  if (!file_exists($fHtml) || !file_exists($fScript)) {
+  if (!file_exists($fHtml)) {
     return;
   }
 
