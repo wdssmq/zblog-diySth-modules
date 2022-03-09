@@ -1,8 +1,11 @@
 /*
+# base
 !.gitignore
 !README.md
 !doc
+# 纳入管理的功能模块
 !autoLoad
 !post301
 !telForCmt
+# others
 *.close
