@@ -2,12 +2,9 @@
 
 用于 Z-BlogPHP diySth 插件的功能模块
 
-----
-[ToC]
-
 ## 说明
 
-**插件本体免费，但是本库内的功能请自觉付费。**
+**插件本体免费，但是本库内的功能请自觉付费。**<a href="https://afdian.net/a/wdssmq" title="爱发电-@wdssmq"><img src="https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%40wdssmq-blueviolet" alt="爱发电-@wdssmq"></a>
 
 插件机制是为了在不修改底层代码的基础上实现额外的功能效果，然而某个需求本身代码量并不高，或者需要的用户并不多时，创建插件和管理都可能成为无意义的负担，为此搞了下边的插件↓↓
 
@@ -31,18 +28,43 @@
 
 →[完整文档拆分至这里][doc]←
 
-##  付款及联系
+## 二维码
+## 投喂
 
-| 支付宝                | 微信                | QQ 群           |
-| --------------------- | ------------------- | --------------- |
-| ![支付宝收款][Alipay] | ![微信收款][WeChat] | ![QQ群][qGroup] |
-
-
-
-[Alipay]: https://cdn.jsdelivr.net/gh/wdssmq/zblog-diySth-modules@master/doc/Alipay.jpg  "支付宝收款"
-
-[WeChat]: https://cdn.jsdelivr.net/gh/wdssmq/zblog-diySth-modules@master/doc/WeChat.png  "微信收款"
-
-[qGroup]: https://cdn.jsdelivr.net/gh/wdssmq/zblog-diySth-modules@master/doc/qGroup.jpg  "QQ群"
-
-[doc]: https://github.com/wdssmq/zblog-diySth-modules/blob/master/doc/doc.md "文档"
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://fastly.jsdelivr.net/gh/wdssmq/wdssmq@main/doc/qr-ali.png"
+        alt="qr-ali"
+        title="qr-ali"
+      />
+    </td>
+    <td>
+      <img
+        src="https://fastly.jsdelivr.net/gh/wdssmq/wdssmq@main/doc/qr-wx.png"
+        alt="qr-wx"
+        title="qr-wx"
+      />
+    </td>
+    <td>
+      <img
+        src="https://fastly.jsdelivr.net/gh/wdssmq/wdssmq@main/doc/qr-qq.png"
+        alt="qr-qq"
+        title="qr-qq"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <a
+        target="_blank"
+        href="https://afdian.net/@wdssmq"
+        title="沉冰浮水正在创作和 z-blog 相关或无关的各种有用或没用的代码 | 爱发电"
+        ><img
+          src="https://fastly.jsdelivr.net/gh/wdssmq/wdssmq@main/doc/afdian.png"
+          alt="爱发电"
+      /></a>
+    </td>
+  </tr>
+</table>
