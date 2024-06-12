@@ -26,7 +26,7 @@
 | -------- | -------------------------------- | ---------------- |
 | autoLoad | 后台任意页面编译 diySth 插件功能 | 实际使用并不需要 |
 
-→[完整文档拆分至这里][doc]←
+→[当前仓库收录的功能列表](https://github.com/wdssmq/zblog-diySth-modules/tree/master/doc "zblog-diySth-modules/doc at master · wdssmq/zblog-diySth-modules")←
 
 ## 二维码
 ## 投喂
