@@ -4,7 +4,7 @@
 
 ## 说明
 
-**插件本体免费，但是本库内的功能请自觉付费。**<a href="https://afdian.net/a/wdssmq" title="爱发电-@wdssmq"><img src="https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%40wdssmq-blueviolet" alt="爱发电-@wdssmq"></a>
+**插件本体免费，但是本库内的功能请自觉付费。**<a href="https://afdian.com/a/wdssmq" title="爱发电-@wdssmq"><img src="https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%40wdssmq-blueviolet" alt="爱发电-@wdssmq"></a>
 
 插件机制是为了在不修改底层代码的基础上实现额外的功能效果，然而某个需求本身代码量并不高，或者需要的用户并不多时，创建插件和管理都可能成为无意义的负担，为此搞了下边的插件↓↓
 
@@ -59,7 +59,7 @@
     <td align="center" colspan="3">
       <a
         target="_blank"
-        href="https://afdian.net/@wdssmq"
+        href="https://afdian.com/@wdssmq"
         title="沉冰浮水正在创作和 z-blog 相关或无关的各种有用或没用的代码 | 爱发电"
         ><img
           src="https://fastly.jsdelivr.net/gh/wdssmq/wdssmq@main/doc/afdian.png"
